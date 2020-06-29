@@ -9,9 +9,9 @@ I did the testing by using some external websites such as https://kavaliro.com/w
 
 You can test using one of following:
 
-Using a test module and feed it with a plain text and a key to our encryption engine to get a cipher text and take cipher text with same key and feed it to the decryption engine to see if we can get the original plain text. You can use the AesMain.java to test the Encryption or Decryption. 
+Using a test module and feed it with a plain text and a key to the encryption engine to get a cipher text and take the cipher text with same key and feed it to the decryption engine to see if you can get the original plain text. You can use the AesMain.java to test the Encryption or Decryption. 
 
-You can text our program using external website designed for testing AES engines. You can give our program an input key and plain text to get a cipher text. Then give the same key and plain text to the website that test AES as input to get a plain text. Compare the two plan texts to see if they are the same. Do the same thing for decryption.One of the websites I used  to test my results was http://aes.online-domain-tools.com/.
+You can can also test the program using external website designed for testing AES engines. You can give the  program an input key and plain text to get a cipher text. Then give the same key and plain text to the website that test AES online as input to get a cipher text. Compare the two cipher texts to see if they are the same. Do the same thing for decryption.One of the websites I used  to test my results was http://aes.online-domain-tools.com/.
 
 	This is the lest efficient way and consist of verifying the result manually.
 
